@@ -1,5 +1,5 @@
 p = 1
-while p <=6995969:
+while p <=100:
     print(p)
     p += 1
 
